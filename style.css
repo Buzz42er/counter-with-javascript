@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  font-family: "Rajdhani", sans-serif;
+}
+
+body {
+  color: white;
+  background-color: rgb(203, 191, 28);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
